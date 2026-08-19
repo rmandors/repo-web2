@@ -1,1 +1,4 @@
-# Bitácora Web 3\n\n## Descripción\nRepositorio del semestre para Desarrollo Web 3.\n
+# Bitácora Web 3
+
+## Descripción
+Repositorio del semestre para Desarrollo Web 3.
